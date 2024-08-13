@@ -2,6 +2,6 @@ POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-    "content": "New note from VScode Rest",
+    "content": "New note from VScode Rest 222",
     "important": false
 }
